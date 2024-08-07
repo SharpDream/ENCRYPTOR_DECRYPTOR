@@ -28,7 +28,9 @@ This Python script allows you to encrypt and decrypt text using simple commands.
 
 Download the script.txt
 
-\```txt
+or here is it...
+
+```txt
 a  = 1
 b  = 5
 c  = 3
@@ -55,5 +57,3 @@ w  = #
 x  = !
 y  = $
 z  = &
-\```
-

@@ -28,7 +28,7 @@ This Python script allows you to encrypt and decrypt text using simple commands.
 
 Download the script.txt
 
-or here is it...
+or take a look at it...
 
 ```txt
 a  = 1
